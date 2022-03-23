@@ -12,5 +12,7 @@ Chạy:
 
 python craw_thehackernew_site.py
 
+Chạy thành công:
+
 ![image](https://user-images.githubusercontent.com/79184015/159738286-928a33d6-ac9d-44a5-a2ac-837e347682ab.png)
 
