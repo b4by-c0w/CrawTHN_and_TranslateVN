@@ -4,5 +4,4 @@ datetime
 googletrans
 python-docx
 docx
-io
 PIL
